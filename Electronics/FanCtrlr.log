@@ -1,0 +1,24 @@
+Circuit: * C:\Users\doug_000\Documents\GitHub\PiCluster\Electronics\FanCtrlr.asc
+
+Limiting rise time of source v1 to 8e-007
+Limiting fall time of source v1 to 8e-007
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Jul 01 13:11:31 2016
+Total elapsed time: 8.533 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1396784
+traniter = 1396772
+tranpoints = 562272
+accept = 451219
+rejected = 111053
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 444 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 740 bytes object code size  0.3/0.2/[0.1]
+
+
