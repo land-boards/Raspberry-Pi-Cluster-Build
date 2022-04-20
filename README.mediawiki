@@ -1,4 +1,6 @@
-== land-boards Raspberry Pi Cluster ==
+<a href="https://www.tindie.com/stores/land_boards/"><img src="http://land-boards.com/blwiki/images/5/51/Tindie-mediums.png" alt="Tindie Logo"></img></a>
+
+= land-boards Raspberry Pi Cluster =
 
 <img src="http://land-boards.com/blwiki/images/0/0c/Pi-Cluster-P1010345-720px.jpg" alt="Raspberry Pi Cluster"></img>
 
@@ -6,14 +8,14 @@
 * [http://land-boards.com/blwiki/index.php?title=PiCluster Wiki for the Raspberry Pi Cluster]
 
 
-== Ownership ==
+= Ownership =
 
 * Some of these files (particularly libraries) were created by others.
 ** There may be newer versions of these libraries "out there".
 ** Some libraries even have the same names but don't work the same.
 * Many of these files were created by us based on the work of others.
 
-=== Warning ===
+= Warning =
 
 * Use at your own risk.
 ** If you brick your part or it melt to a puddle, it's on you not us.
